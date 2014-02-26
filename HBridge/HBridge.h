@@ -14,7 +14,6 @@
 	
 	For reference, a commonly used double H-Bridge is the SN754410:
 	http://www.ti.com/lit/ds/symlink/sn754410.pdf
-
 ----------------------------------------------------------------*/
 
 #ifndef HBridge_h
